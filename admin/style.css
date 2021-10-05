@@ -1,0 +1,27 @@
+h1{
+	margin: 30px 0 60px 0;
+}
+
+h2{
+	margin: 20px 0 40px 0;
+}
+
+.konten{
+	margin: 120px 0 60px 0;
+}
+
+.jumbotron{
+	border-radius: 20px;
+}
+
+.jumbotron p{
+	margin-bottom: 20px;
+}
+
+.bottom{
+	margin-bottom: 100px;
+}
+
+.table{
+	margin: 40px 0 40px 0;
+}
